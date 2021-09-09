@@ -93,4 +93,4 @@ New names can be suggested via the github repository. New terms undergo rigorous
 - Slow pace and effort of suggesting new terms (subjective)
 
 
-### Geology
+## Geology
