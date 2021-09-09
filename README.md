@@ -1,110 +1,19 @@
 # marinedata-vocabulary-guidance
 As an interim solution to vocabulary harmonization, this repository will develop guidance for data managers on how to select an appropriate vocabulary for their oceanographic observations.
 
+This repository is intended to provide insights from the experiences of the community along with explanations in accessible language. 
 
+A general overview is described in [overview.md](overview.md)
 
+For a more detailed list of recommended controlled vocabularies for parameter names, see [list_of_recommended_vocabularies_for_parameter_names.md](list_of_recommended_vocabularies_for_parameter_names.md)
 
+For a list of recommended controlled vocabularies for keywords, see here [list_of_recommended_vocabularies_for_keywords.md](list_of_recommended_vocabularies_for_keywords.md)
 
-Parameter Level
-===============
+Please contribute your knowledge! Comments, edits, and suggestions are welcome via pull request, new issue, or by email to esip-marinedata-owner@lists.esipfed.org
 
-## Chemistry, Physical
+This guidance document has been created by the Marine Data Cluster.
 
-### CF Standard Names
-
-https://cfconventions.org/
-
-The CF standard names list is maintained by the CF governance group here:
-https://cfconventions.org/standard-names.html
-
-New names can be suggested via the github repository. New terms undergo rigorous inspection and discussion before approval.
-
-
-#### CF Standard Names Strengths
-
-- Strong community support
-
-#### CF Standard Names Limitations
-
-- Slow pace and effort of suggesting new terms (subjective)
-
-
-### GCMD
-
-https://gcmd.earthdata.nasa.gov/
-
-A NASA product developed for in house projects.
-
-#### GCMD Strengths
-
-- Good for data discovery purposes
-- Extensive list
-
-#### GCMD Limitations
-
-- Developed for remote sensors, less relevant to in situ programs (this is changing, invite to comment)
-
-### Chemistry, Physical General Commentary
-
-## Biology
-
-### Worms
-
-https://www.marinespecies.org/index.php
-
-The World Register of Marine Species is an authoritative classification and catalogue of marine names.
-
-#### Strengths
-
-- Marine specific
-- Incredibly responsive team
-
-#### Limitations
-
-- Potental conflicts (invite to comment)
-
-### Itis
-
-https://www.itis.gov/
-
-The Integrated Taxonomic Information System. Authoritative taxonomic information on plants, animals, fungi, and microbes of North America and the world.
-
-#### Strengths
-
-- Taxonomic Serial Number
-
-#### Limitations
-
-- Not marine specific (invite to comment)
-
-### NCBI Taxonomy
-
-https://www.ncbi.nlm.nih.gov/taxonomy
-
-The Taxonomy Database is a curated classification and nomenclature for all of the organisms in the public sequence databases. This currently represents about 10% of the described species of life on the planet.
-
-#### Strengths
-
-- Taxids
-
-#### Limitations
-
-- Genomics oriented (invite to comment)
-
-### Biology Commentary
-
-- OBIS and Darwincore: Many programs request biological data be submitted to OBIS, which requires use of the DarwinCore format, which requires use of WoRMS in combination with NVS. OBIS is a fantastic data aggregator but it should be noted that data can be used outside the OBIS framework. (invite to comment)
-
-
-### Atmospheric Science
-
-
-
-### Geology
-
-
-
-
+Meetings on the 2nd Thursday of the month at 10:30 PT / 1:30 ET. For more information see [wiki.esipfed.org/MarineData](https://wiki.esipfed.org/MarineData)
 
 
 
