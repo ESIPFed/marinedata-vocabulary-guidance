@@ -74,7 +74,23 @@ The Taxonomy Database is a curated classification and nomenclature for all of th
 
 
 ### Atmospheric Science
+### CF Standard Names
 
+https://cfconventions.org/
+
+The CF standard names list is maintained by the CF governance group here:
+https://cfconventions.org/standard-names.html
+
+New names can be suggested via the github repository. New terms undergo rigorous inspection and discussion before approval.
+
+
+#### CF Standard Names Strengths
+
+- Strong community support
+
+#### CF Standard Names Limitations
+
+- Slow pace and effort of suggesting new terms (subjective)
 
 
 ### Geology
