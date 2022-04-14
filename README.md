@@ -1,4 +1,4 @@
-# marinedata-vocabulary-guidance
+# Controlled Vocabularies and Marine Data
 
 The use of controlled vocabularies is foundational to the goal of more FAIR (Findable, Accessible, Interoperable, Reusable) data. 
 
@@ -10,7 +10,7 @@ This guidance document has been created by ESIP's Marine Data Cluster.
 
 Meetings on the 2nd Thursday of the month at 10:30 PT / 1:30 ET. For more information see [wiki.esipfed.org/MarineData](https://wiki.esipfed.org/MarineData)
 
-List of resources:
+## List of resources:
 * Climate and Forecast standard names - https://cfconventions.org/standard-names.html
 * World Registry of Marine Species - https://www.marinespecies.org/index.php
 * Integrated Taxonomic Information System - https://www.itis.gov/
@@ -23,6 +23,7 @@ List of resources:
 * Marine Regions - https://www.marineregions.org/sources.php
 
 
+## Considerations for Controlled Vocabulary Selection
 The following guidelines are taken from the presentation by Stace Beaulieu of the Woods Hole Oceanagraphic Institution. 
 
 A recording of the presentation and slides are available [here](https://drive.google.com/drive/u/0/folders/1UkO4uqGKEqA0OcbxzicPJ_nHKDS4anZg) (presentation is from 00:35 to 08:45). This was part of the "Vocabularies in the Marine World" Marine Data Cluster call on 2021-04-08. 
