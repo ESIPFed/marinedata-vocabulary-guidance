@@ -21,3 +21,4 @@ List of resources:
 * P01 from NERC Vocabulary Server - https://vocab.nerc.ac.uk/search_nvs/P01/
 * LTER controlled vocabulary - https://vocab.lternet.edu/vocab/vocab/index.php
 * Darwin Core terms - https://dwc.tdwg.org/terms/
+* Marine Regions - https://www.marineregions.org/sources.php
